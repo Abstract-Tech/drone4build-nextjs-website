@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #f15a24;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="70.4" y="110.1" width="61.8" height="61.8"/>
+  <path class="st0" d="M101.3,74.5v14.8s.2,5.2-7.6,5.2h-25.9s-9.4,1.9-9.4,9.9v22.6s-.5,10.4,12.1,10.4"/>
+  <path class="st0" d="M101.3,74.5v14.8s-.2,5.2,7.6,5.2h25.9s9.4,1.9,9.4,9.9v22.6s.5,10.4-12.1,10.4"/>
+  <ellipse class="st0" cx="45" cy="59.2" rx="8" ry="14.4"/>
+  <ellipse class="st0" cx="157.5" cy="59.2" rx="8" ry="14.4"/>
+  <path class="st0" d="M74.5,74.5h51.2s5.1-28.5-24.3-28.5-26.9,28.5-26.9,28.5Z"/>
+  <line class="st0" x1="53" y1="59.2" x2="76.9" y2="59.2"/>
+  <line class="st0" x1="19" y1="31.9" x2="71" y2="31.9"/>
+  <line class="st0" x1="131.5" y1="31.9" x2="183.6" y2="31.9"/>
+  <line class="st0" x1="124.4" y1="59.2" x2="148.2" y2="59.2"/>
+  <line class="st0" x1="45" y1="31.9" x2="45" y2="44.8"/>
+  <line class="st0" x1="157.5" y1="31.9" x2="157.5" y2="44.8"/>
+</svg>

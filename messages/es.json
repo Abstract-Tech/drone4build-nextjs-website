@@ -1,0 +1,1669 @@
+{
+  "common": {
+    "siteName": "Drone4Build",
+    "tagline": "Elevando la construcción con drones"
+  },
+  "header": {
+    "partners": "Socios",
+    "results": "Resultados",
+    "projectPage": "Proyecto",
+    "contactUs": "Contáctenos",
+    "followLinkedin": "Síguenos en LinkedIn",
+    "languageNames": {
+      "en": "Inglés",
+      "de": "Deutsch",
+      "es": "Español",
+      "el": "Ελληνικά",
+      "mk": "Македонски",
+      "it": "Italiano"
+    },
+    "followInstagram": "Síguenos en Instagram",
+    "resultsItems": {
+      "trainingProgramme": "Programa de formación",
+      "droneHandbook": "Manual de drones",
+      "digitalLearningToolkit": "Kit de aprendizaje digital"
+    }
+  },
+  "footer": {
+    "coFunded": "Drone4Build está cofinanciado por el Programa Erasmus+ de la Unión Europea. El proyecto representa un esfuerzo colaborativo para transformar la educación y las prácticas de construcción en toda Europa mediante el desarrollo innovador de competencias digitales.",
+    "disclaimer": "Las opiniones expresadas en esta plataforma reflejan únicamente las perspectivas de los autores. La Comisión Europea no se responsabiliza del uso que pueda hacerse de la información aquí contenida.",
+    "rights": "© {year} Drone4Build – Todos los derechos reservados.",
+    "coFundedLabel": "Cofinanciado por la Unión Europea",
+    "links": {
+      "privacyPolicy": "Política de privacidad",
+      "cookiesPolicy": "Política de cookies",
+      "legalNotice": "Aviso legal",
+      "termsOfUse": "Términos de uso",
+      "socialMediaDisclaimer": "Aviso legal de redes sociales"
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "form": {
+      "validation": {
+        "nameRequired": "Por favor, introduzca su nombre.",
+        "nameMin": "Por favor, introduzca su nombre.",
+        "nameMax": "El nombre es demasiado largo.",
+        "emailRequired": "Por favor, introduzca una dirección de correo electrónico válida.",
+        "emailInvalid": "Por favor, introduzca una dirección de correo electrónico válida.",
+        "emailMax": "La dirección de correo electrónico es demasiado larga.",
+        "messageRequired": "Por favor, introduzca su mensaje.",
+        "messageMin": "Por favor, introduzca su mensaje.",
+        "messageMax": "El mensaje es demasiado largo."
+      },
+      "status": {
+        "validation": "Corrija los campos resaltados.",
+        "success": "¡Gracias! Su mensaje ha sido enviado con éxito.",
+        "error": "Se ha producido un error. Por favor, inténtelo de nuevo más tarde.",
+        "deliveryUnavailable": "Se ha producido un error. Por favor, inténtelo de nuevo más tarde.",
+        "recaptchaFailed": "La verificación de seguridad falló. Por favor, inténtalo de nuevo."
+      },
+      "labels": {
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "message": "Mensaje",
+        "submit": "Enviar mensaje"
+      }
+    },
+    "description": "¿Tiene preguntas sobre Drone4Build? Envíenos un mensaje y nuestro equipo se pondrá en contacto con usted."
+  },
+  "connect": {
+    "title": "Conéctese con nosotros",
+    "intro": "Únase a nuestra comunidad para recibir las últimas actualizaciones, conocimientos y oportunidades en tecnología de drones para la construcción. ¡Estamos deseando conectar con usted!",
+    "linkedin": {
+      "title": "Síguenos en LinkedIn",
+      "description": "Conéctese con nosotros para noticias del sector, hitos del proyecto y oportunidades profesionales.",
+      "cta": "Conectar ahora"
+    },
+    "email": {
+      "title": "Envíenos un correo electrónico",
+      "description": "Para consultas, asociaciones o asistencia, comuníquese directamente con nuestro equipo.",
+      "cta": "Enviar correo al equipo"
+    },
+    "mailing": {
+      "title": "Únase a nuestra lista de correo",
+      "description": "Suscríbase a nuestro boletín para contenido exclusivo e invitaciones a eventos.",
+      "cta": "Regístrese para actualizaciones"
+    }
+  },
+  "social": {
+    "title": "Lo último en nuestro LinkedIn",
+    "description": "Siga <link>Drone4Build en LinkedIn</link> para actualizaciones, aspectos destacados y noticias del proyecto.",
+    "loading": "Cargando actualizaciones de LinkedIn…"
+  },
+  "partnersSection": {
+    "title": "Socios del proyecto",
+    "description": "Estos son los socios del consorcio que trabajan activamente juntos en el proyecto Drone4Build."
+  },
+  "inspire": {
+    "title": "Inspirar renovaciones preparadas para el futuro",
+    "paragraph1": "Drone4Build es una innovadora Asociación de Cooperación Erasmus+ que conecta la artesanía tradicional con la transformación digital en el sector de la construcción europeo. Siete socios de cinco países de la UE se han unido para desarrollar programas de formación pioneros y una plataforma de aprendizaje abierta para el uso de drones en proyectos de renovación y rehabilitación.",
+    "paragraph2": "Al alinearse con la Industria 5.0 y el Pacto Verde Europeo, Drone4Build capacita a los profesionales de la construcción con competencias digitales avanzadas, haciendo que la renovación sea más segura, rápida y eficiente energéticamente. Nuestro enfoque integral combina formación práctica, marcos estratégicos y creación de comunidad para transformar la forma en que Europa construye y renueva."
+  },
+  "about": {
+    "title": "Acerca del proyecto",
+    "cards": {
+      "blended": {
+        "title": "Aprendizaje mixto",
+        "description": "Combinación de talleres presenciales con módulos de aprendizaje en línea para una formación flexible y accesible que se adapta a los horarios profesionales."
+      },
+      "strategic": {
+        "title": "Base estratégica",
+        "description": "Creación de un Marco Europeo de Competencias en Drones alineado con DigComp 2.2 para estandarizar las habilidades con drones en toda la industria de la construcción."
+      },
+      "openPlatform": {
+        "title": "Plataforma abierta",
+        "description": "Creación de una comunidad de práctica colaborativa que apoya a formadores y alumnos en toda Europa con recursos y conocimientos compartidos."
+      }
+    }
+  },
+  "challenges": {
+    "title": "Abordando desafíos críticos",
+    "paragraph1": "El sector de la construcción está experimentando una transformación profunda. La Ola de Renovación de la UE y el avance hacia la Construcción 5.0 exigen nuevas competencias digitales y prácticas sostenibles. Los programas masivos de renovación en toda Europa requieren profesionales dotados de competencias tecnológicas avanzadas.",
+    "paragraph2": "Drone4Build responde desarrollando hojas de ruta estratégicas, marcos de competencias y recursos de formación diseñados específicamente para aplicaciones de drones en renovaciones de edificios, garantizando que los profesionales puedan realizar inspecciones, mediciones y tareas de monitorización de manera más eficiente, reduciendo costes y mejorando la seguridad."
+  },
+  "objectives": {
+    "title": "Objetivos del proyecto",
+    "intro": "El consorcio Drone4Build ha definido objetivos S.M.A.R.T. claros para guiar su trabajo en el panorama de la construcción europea:",
+    "cards": {
+      "upskill": {
+        "title": "Mejorar las competencias de los trabajadores",
+        "description": "Proporcionar a los trabajadores de la construcción de nivel EQF 4–5 competencias digitales esenciales para adoptar con confianza drones y tecnologías emergentes en su trabajo diario."
+      },
+      "modernise": {
+        "title": "Modernizar la formación",
+        "description": "Alinear los programas de educación profesional con los requisitos de habilidades emergentes, preparando a los profesionales para los desafíos y oportunidades futuros del mercado laboral."
+      },
+      "curriculum": {
+        "title": "Desarrollar el plan de estudios",
+        "description": "Diseñar e implementar programas integrales de aprendizaje mixto centrados en aplicaciones prácticas de drones en proyectos de renovación y rehabilitación."
+      },
+      "vet": {
+        "title": "Desarrollar la capacidad de la EFP",
+        "description": "Impartir talleres y recursos que permitan a los formadores enseñar eficazmente la tecnología de drones mediante metodologías probadas de formación de formadores."
+      },
+      "transform": {
+        "title": "Transformar el sector",
+        "description": "Mejorar el atractivo de las carreras en la construcción integrando competencias digitales y ecológicas, promoviendo al mismo tiempo prácticas industriales más seguras y sostenibles."
+      },
+      "standards": {
+        "title": "Establecer estándares",
+        "description": "Crear un marco basado en competencias que defina las habilidades fundamentales y garantice la calidad y la coherencia en toda Europa mediante certificación estandarizada."
+      }
+    }
+  },
+  "innovation": {
+    "title": "Innovación y enfoque",
+    "intro": "Drone4Build ofrece características de vanguardia diseñadas para revolucionar la construcción en toda Europa. Nuestras soluciones proporcionan herramientas modernas e inteligencia procesable para un entorno construido más eficiente, conforme y preparado para el futuro.",
+    "cards": {
+      "holistic": {
+        "title": "Transformación digital holística",
+        "paragraph1": "Drone4Build integra la tecnología de drones con la formación en competencias digitales, ofreciendo un enfoque integral para la mejora de competencias de la fuerza laboral de la construcción en Europa. Adoptando los principios de la Construcción 5.0, el proyecto se centra en la innovación tecnológica, la sostenibilidad y el diseño centrado en el ser humano.",
+        "paragraph2": "Nuestro enfoque de aprendizaje práctico garantiza que los participantes trabajen con equipos de última generación, aprendiendo a capturar, procesar y analizar datos para inspecciones de edificios, evaluaciones de eficiencia energética y proyectos de rehabilitación."
+      },
+      "strategic": {
+        "title": "Alineación estratégica",
+        "paragraph1": "El plan de estudios apoya directamente la Estrategia Digital de la UE, la Ola de Renovación y el Pacto Verde, basándose en metodologías probadas de proyectos como Construction Blueprint, BIM4D, ET4Digital y TRITON.",
+        "paragraph2": "A través de plataformas como EPALE, estamos construyendo vibrantes comunidades en línea donde formadores y profesionales comparten mejores prácticas, colaboran en proyectos innovadores y sostienen el impacto del programa más allá de su duración formal."
+      },
+      "features": {
+        "title": "Características clave",
+        "practical": {
+          "title": "Experiencia práctica",
+          "description": "Formación en el mundo real con equipos profesionales de drones, herramientas de procesamiento de datos y flujos de trabajo estándar de la industria."
+        },
+        "policy": {
+          "title": "Alineación de políticas",
+          "description": "Integración completa con los objetivos de la Estrategia Digital de la UE, la Ola de Renovación y el Pacto Verde para lograr el máximo impacto."
+        },
+        "networks": {
+          "title": "Redes colaborativas",
+          "description": "Construcción de comunidades de práctica duraderas a través de EPALE y plataformas dedicadas para el intercambio de conocimientos."
+        }
+      }
+    }
+  },
+  "workPackages": {
+    "title": "Paquetes de trabajo y actividades clave",
+    "intro": "Drone4Build se organiza en cinco paquetes de trabajo estratégicos:",
+    "cards": {
+      "management": {
+        "title": "Gestión del proyecto",
+        "description": "Coordinación de socios, seguimiento del progreso, informes a la Agencia Nacional Erasmus+ y gestión financiera para garantizar una entrega puntual y de alta calidad."
+      },
+      "ecosystem": {
+        "title": "Ecosistema de competencias digitales",
+        "description": "Desarrollo de informes estratégicos sobre requisitos de habilidades, mapeo de competencias con el Marco Europeo de Competencias Digitales y organización de talleres de validación con partes interesadas."
+      },
+      "training": {
+        "title": "Desarrollo del programa de formación",
+        "description": "Diseño de planes de estudio mixtos con componentes presenciales y en línea; creación de módulos interactivos sobre operaciones, procesamiento de datos, seguridad y cumplimiento normativo."
+      },
+      "pilot": {
+        "title": "Prueba piloto y formación de formadores",
+        "description": "Impartición de cursos piloto en cada país socio, realización de talleres de formación de formadores y elaboración de directrices para la implementación a nivel europeo."
+      },
+      "industry": {
+        "title": "Colaboración industrial",
+        "description": "Involucrar a empresas constructoras, fabricantes, responsables políticos y asociaciones a través de mesas redondas, hackathons y eventos de difusión para garantizar la sostenibilidad a largo plazo."
+      }
+    }
+  },
+  "impact": {
+    "title": "Alineación estratégica",
+    "intro": "Drone4Build ofrece características de vanguardia diseñadas para revolucionar la construcción en toda Europa. Nuestras soluciones proporcionan herramientas modernas e inteligencia procesable para un entorno construido más eficiente, conforme y preparado para el futuro.",
+    "outcomes": {
+      "title": "Resultados transformadores",
+      "description": "Para diciembre de 2027, Drone4Build entregará resultados tangibles para el sector de la construcción europeo, incluyendo planes de estudio listos para usar, una plataforma de aprendizaje abierta y marcos de competencias que redefinirán cómo los profesionales abordan la renovación y la rehabilitación."
+    },
+    "keyOutputs": {
+      "title": "Resultados clave",
+      "completeTraining": {
+        "title": "Recursos de formación completos",
+        "description": "Plan de estudios que cubre los aspectos técnicos, operativos, regulatorios y de seguridad del uso de drones en renovación y construcción."
+      },
+      "openPlatform": {
+        "title": "Plataforma de aprendizaje abierta",
+        "description": "Cursos, recursos y espacios comunitarios que conectan a formadores y alumnos en toda Europa."
+      },
+      "competence": {
+        "title": "Marco de competencias",
+        "description": "Un estándar europeo que mapea las habilidades con drones a las competencias digitales, incluyendo orientación para vías de certificación."
+      },
+      "network": {
+        "title": "Red de profesionales cualificados",
+        "description": "Una comunidad creciente de profesionales capacitados que promueven la transformación digital y las prácticas sostenibles en toda la industria."
+      }
+    },
+    "longTermReach": {
+      "title": "Alcance a largo plazo",
+      "professionals": {
+        "title": "Profesionales a formar",
+        "description": "Trabajadores de la construcción que adquieren habilidades avanzadas con drones mediante cursos piloto."
+      },
+      "countries": {
+        "title": "Países de la UE",
+        "description": "Naciones socias que colaboran para transformar la educación en construcción."
+      },
+      "years": {
+        "title": "Años de impacto",
+        "description": "Recursos de acceso abierto disponibles tras el proyecto para sostener la transformación."
+      }
+    }
+  },
+  "getInvolved": {
+    "title": "Participe",
+    "intro": "Drone4Build prospera gracias a la colaboración y da la bienvenida a la participación de profesionales de la construcción, formadores, empresas, responsables políticos e investigadores de toda Europa.",
+    "cards": {
+      "professionals": {
+        "title": "Profesionales de la construcción",
+        "description": "Inscríbase en cursos de formación, adquiera habilidades con drones muy demandadas y participe en pruebas piloto en su región."
+      },
+      "providers": {
+        "title": "Proveedores de formación y EFP",
+        "description": "Únase a los talleres de formación de formadores e integre el plan de estudios Drone4Build en su institución. Certifíquese para impartir formación de vanguardia en drones."
+      },
+      "companies": {
+        "title": "Empresas y actores del sector",
+        "description": "Colabore en proyectos piloto, proporcione estudios de caso y participe en mesas redondas que configuran el futuro de la renovación y la transformación digital."
+      },
+      "policy": {
+        "title": "Responsables políticos e investigadores",
+        "description": "Utilice los resultados del proyecto para informar las políticas educativas y explorar nuevas vías de investigación en construcción digital, sostenibilidad y desarrollo de la fuerza laboral."
+      }
+    }
+  },
+  "privacyPolicyPage": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: enero de 2026",
+    "intro": "El sitio web del proyecto Drone4Build (https://drone4build.eu) está comprometido con la protección de sus datos personales de conformidad con el Reglamento General de Protección de Datos (RGPD) de la UE y otras leyes aplicables. Esta Política de Privacidad explica cómo recopilamos, utilizamos, divulgamos y protegemos los datos personales cuando visita o interactúa con nuestro sitio web (\"Servicio\"), y le informa sobre sus derechos. Al utilizar nuestro sitio web, usted acepta los términos de esta Política de Privacidad. Si no está de acuerdo, le rogamos que deje de utilizar el sitio.",
+    "sections": [
+      {
+        "title": "Responsable del tratamiento y contacto",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "El Responsable del Tratamiento de datos personales en este sitio es Abstract-Technology GmbH, el coordinador del proyecto, con sede en Berlín, Alemania. Abstract-Technology también actúa como nuestro Delegado de Protección de Datos (DPD) para el proyecto Drone4Build. Para cualquier pregunta o solicitud relativa a sus datos personales, puede contactarnos en info@abstract-technology.de."
+          },
+          {
+            "kind": "paragraph",
+            "text": "También puede consultar nuestro Aviso Legal / Pie de imprenta para obtener más datos de contacto."
+          }
+        ]
+      },
+      {
+        "title": "Datos personales que recopilamos",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Solo recopilamos datos personales necesarios para el funcionamiento de este sitio web del proyecto educativo Erasmus+ y para proporcionarle la información o los servicios que solicite. Los tipos de datos que recopilamos incluyen:"
+          },
+          {
+            "kind": "subheading",
+            "text": "Información que usted proporciona voluntariamente"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Si se pone en contacto con nosotros por correo electrónico, formulario de contacto u otros medios, recopilamos su nombre, dirección de correo electrónico y cualquier otra información que proporcione en su mensaje. Estos datos se utilizarán exclusivamente para responder a su consulta. No recopilaremos información personal adicional (como su número de teléfono o afiliación) a menos que usted decida proporcionarla."
+          },
+          {
+            "kind": "subheading",
+            "text": "Datos de uso y archivos de registro"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Cuando visita nuestro sitio web, nuestro sistema recopila automáticamente cierta información técnica para garantizar el correcto funcionamiento y la seguridad del sitio. Estos datos de uso incluyen detalles como la dirección IP de su dispositivo, la fecha y hora de acceso, las páginas visualizadas, la cantidad de datos transmitidos, la URL de referencia e información sobre su navegador y sistema operativo. Estos archivos de registro son esenciales para diagnosticar problemas, prevenir actividades maliciosas y analizar tendencias de uso. Procesamos estos datos sobre la base de nuestro interés legítimo en garantizar la seguridad de la red y la información (RGPD Art. 6(1)(f)). Los datos de registro se almacenan solo durante un período breve (normalmente hasta 7 días) y se eliminan o anonimizan posteriormente."
+          },
+          {
+            "kind": "subheading",
+            "text": "Cookies y tecnologías de seguimiento"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Como la mayoría de los sitios web, utilizamos cookies y tecnologías similares para mejorar su experiencia y recopilar datos analíticos. Las cookies son pequeños archivos de texto almacenados en su dispositivo. Para más detalles, consulte nuestra Política de Cookies. Las cookies no esenciales solo se activarán con su consentimiento explícito, de conformidad con las normas europeas de ePrivacy."
+          },
+          {
+            "kind": "subheading",
+            "text": "Datos analíticos (Google Analytics)"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Utilizamos Google Analytics, un servicio de análisis web proporcionado por Google, para recopilar información sobre cómo los visitantes utilizan nuestro sitio. Hemos configurado Google Analytics 4 (GA4) de manera respetuosa con la privacidad: las direcciones IP de los usuarios de la UE se anonimizan por defecto y la retención de datos es limitada. Google Analytics actúa como nuestro procesador de datos. No recibimos información personal identificable. Google puede procesar datos en servidores fuera de la UE, pero se ha comprometido con el cumplimiento del RGPD. Solo se le realizará seguimiento si ha dado su consentimiento a las cookies analíticas."
+          },
+          {
+            "kind": "subheading",
+            "text": "Complementos de redes sociales"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Nuestro sitio puede incluir enlaces o contenido integrado de plataformas de terceros (como LinkedIn). Por ejemplo, su navegador puede conectarse a los servidores de LinkedIn y ciertos datos podrían ser transmitidos. No recopilamos datos personales de sus cuentas de redes sociales; sin embargo, el proveedor tercero puede recopilar datos sobre su interacción. Consulte la sección Aviso legal de redes sociales y la política de privacidad de LinkedIn para más detalles."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Otros datos voluntarios"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Si ofrecemos funciones como suscripción a boletines o registro de eventos en el futuro, solo recopilaremos la información necesaria y proporcionaremos avisos específicos en el punto de recopilación. Todas estas actividades serán opcionales y basadas en su consentimiento (RGPD Art. 6(1)(a))."
+          },
+          {
+            "kind": "paragraph",
+            "text": "No recopilamos intencionalmente datos personales sensibles (como raza, información de salud, etc.) en este sitio. Por favor, absténgase de enviar tales datos a través de nuestros formularios de contacto o correos electrónicos."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Nuestro sitio web está destinado a un público general. No recopilamos conscientemente datos personales de menores de 16 años. Si tiene menos de 16 años, no proporcione ninguna información personal. Si descubrimos que hemos recopilado inadvertidamente datos de un menor sin el consentimiento adecuado, los eliminaremos de inmediato."
+          }
+        ]
+      },
+      {
+        "title": "Finalidades y bases legales del tratamiento",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Utilizamos los datos personales recopilados a través del sitio web solo para los siguientes fines, y nos basamos en las bases legales indicadas:"
+          },
+          {
+            "kind": "subheading",
+            "text": "Provisión y mejora del sitio web"
+          },
+          {
+            "kind": "listItem",
+            "text": "Procesamos datos de uso y cookies necesarias para mostrar nuestro sitio correctamente, mantener la seguridad y medir el rendimiento. Base legal: Interés legítimo (Art. 6(1)(f) RGPD)."
+          },
+          {
+            "kind": "subheading",
+            "text": "Respuesta a consultas"
+          },
+          {
+            "kind": "listItem",
+            "text": "Si nos contacta con preguntas, utilizamos su información para comunicarnos con usted. Base legal: Medidas contractuales o precontractuales (Art. 6(1)(b) RGPD) o Consentimiento (Art. 6(1)(a) RGPD)."
+          },
+          {
+            "kind": "subheading",
+            "text": "Análisis y rendimiento"
+          },
+          {
+            "kind": "listItem",
+            "text": "Utilizamos análisis anonimizados y agregados para comprender cómo se utiliza nuestro sitio y mejorar el contenido. Base legal: Consentimiento – solo utilizaremos cookies analíticas si usted da su consentimiento (Art. 6(1)(a) RGPD). Puede retirar su consentimiento en cualquier momento."
+          },
+          {
+            "kind": "subheading",
+            "text": "Comunicaciones del proyecto"
+          },
+          {
+            "kind": "listItem",
+            "text": "Como proyecto Erasmus+, podemos publicar periódicamente boletines, actualizaciones o resultados. Si se suscribe a un boletín, utilizaremos su correo electrónico con base en su consentimiento. Cada correo incluirá una opción para cancelar la suscripción."
+          },
+          {
+            "kind": "subheading",
+            "text": "Cumplimiento legal e intereses vitales"
+          },
+          {
+            "kind": "listItem",
+            "text": "Procesaremos o divulgaremos datos personales si es necesario para cumplir con nuestras obligaciones legales o para proteger intereses vitales. Por ejemplo, para cumplir los requisitos de informes del proyecto de la UE (de forma anonimizada) o cuando lo exija la ley."
+          },
+          {
+            "kind": "paragraph",
+            "text": "No utilizaremos sus datos personales para ningún fin incompatible con los indicados anteriormente sin obtener previamente su consentimiento."
+          }
+        ]
+      },
+      {
+        "title": "Intercambio y divulgación de datos",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Tratamos sus datos personales con cuidado y confidencialidad. No vendemos ni alquilamos datos personales a terceros. Solo compartimos datos en las siguientes circunstancias:"
+          },
+          {
+            "kind": "subheading",
+            "text": "Socios del consorcio del proyecto"
+          },
+          {
+            "kind": "listItem",
+            "text": "Drone4Build es un proyecto colaborativo con múltiples organizaciones asociadas. Si es necesario reenviar su consulta a un socio relevante del proyecto, lo haremos. Todos los socios están igualmente obligados por el RGPD y por acuerdos de consorcio a proteger sus datos. Dicho intercambio será siempre limitado y con un propósito específico."
+          },
+          {
+            "kind": "subheading",
+            "text": "Proveedores de servicios y encargados del tratamiento"
+          },
+          {
+            "kind": "listItem",
+            "text": "Utilizamos proveedores de servicios externos para apoyar nuestro sitio web y comunicaciones, incluido nuestro proveedor de alojamiento y Google Analytics. Estos proveedores procesan datos solo en nuestro nombre y bajo nuestras instrucciones. Tenemos acuerdos de procesamiento de datos apropiados."
+          },
+          {
+            "kind": "subheading",
+            "text": "Plataformas de redes sociales"
+          },
+          {
+            "kind": "listItem",
+            "text": "Si interactúa con contenido de Drone4Build en plataformas de terceros como LinkedIn, esas interacciones pueden ser visibles para otros, y el proveedor de la plataforma procesará sus datos según sus propios términos. No importamos sus datos personales de redes sociales a nuestro sistema."
+          },
+          {
+            "kind": "subheading",
+            "text": "Requisitos legales"
+          },
+          {
+            "kind": "listItem",
+            "text": "Podemos divulgar datos personales cuando así lo exija la ley o un proceso legal, o cuando creamos de buena fe que la divulgación es necesaria para cumplir con una obligación legal, proteger los derechos, la propiedad o la seguridad de nuestro proyecto o de los usuarios."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Aparte de lo anterior, no divulgaremos su información a terceros. En particular, no utilizamos redes publicitarias de terceros ni compartimos datos con fines de marketing."
+          }
+        ]
+      },
+      {
+        "title": "Transferencias internacionales de datos",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Como proyecto europeo, nos esforzamos por almacenar y procesar datos personales dentro de la UE/EEE. Nuestros servidores principales están ubicados en la UE. Sin embargo, algunos de nuestros proveedores de servicios pueden procesar datos en otros países."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Google Analytics (Estados Unidos): Los datos de uso recopilados a través de Google Analytics pueden ser transferidos y procesados en servidores de Google en Estados Unidos u otros países. Hemos tomado medidas para minimizar los datos (por ejemplo, anonimización de IP) y confiamos en el compromiso de Google con el cumplimiento del RGPD. Google está certificado bajo las Cláusulas Contractuales Tipo de la UE para transferencias de datos."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Siempre que necesitemos transferir datos personales fuera de la UE/EEE, nos aseguraremos de que existan las salvaguardias apropiadas según el Capítulo V del RGPD. Estas pueden incluir Cláusulas Contractuales Tipo, decisiones de adecuación o su consentimiento explícito."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Al utilizar nuestro sitio, usted entiende que sus datos pueden ser transferidos internacionalmente como se describe. Tomaremos todas las medidas razonablemente necesarias para garantizar que sus datos sean tratados de forma segura y de acuerdo con esta Política de Privacidad."
+          }
+        ]
+      },
+      {
+        "title": "Conservación de datos",
+        "items": [
+          {
+            "kind": "listItem",
+            "text": "Datos de consulta: Si nos contacta, conservaremos sus comunicaciones durante el tiempo necesario para atender su solicitud y las eliminaremos en un plazo razonable (por ejemplo, eliminamos periódicamente los correos de consulta de más de 1 año de antigüedad)."
+          },
+          {
+            "kind": "listItem",
+            "text": "Datos analíticos: Los datos de Google Analytics se conservan durante el período que hemos configurado (por ejemplo, 14 meses según las opciones de GA4) y se eliminan automáticamente después, a menos que se utilicen en informes agregados."
+          },
+          {
+            "kind": "listItem",
+            "text": "Archivos de registro: Los registros del servidor que contienen direcciones IP y otros datos de uso se conservan solo durante un período breve (normalmente de unos días a semanas), a menos que un problema requiera una retención más prolongada."
+          },
+          {
+            "kind": "listItem",
+            "text": "Cookies: Las cookies tienen diversas duraciones. Consulte la Política de Cookies para conocer las duraciones específicas. Puede eliminar las cookies de su navegador en cualquier momento."
+          },
+          {
+            "kind": "listItem",
+            "text": "Duración del proyecto: Drone4Build es un proyecto Erasmus+ con duración limitada. Los datos personales recopilados en el contexto de las actividades del proyecto se eliminarán o anonimizarán generalmente al finalizar el proyecto (salvo que sea necesaria su conservación para requisitos de informes u obligaciones legales). No conservaremos sus datos indefinidamente."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Cuando ya no necesitemos los datos personales, los eliminaremos o los anonimizaremos de forma irreversible para que ya no pueda ser identificado."
+          }
+        ]
+      },
+      {
+        "title": "Seguridad de los datos",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Adoptamos medidas técnicas y organizativas apropiadas para proteger sus datos personales. Estas incluyen servidores seguros, cifrado de datos en tránsito (nuestro sitio web se sirve a través de HTTPS/SSL) y controles de acceso. Actualizamos periódicamente nuestro software y monitorizamos vulnerabilidades."
+          },
+          {
+            "kind": "paragraph",
+            "text": "A pesar de nuestros esfuerzos, ninguna transmisión por Internet o almacenamiento electrónico es 100% seguro. No podemos garantizar la seguridad absoluta de la información. Usted también es responsable de utilizar una conexión segura. Si tiene motivos para creer que su interacción con nosotros ya no es segura, contáctenos de inmediato."
+          },
+          {
+            "kind": "paragraph",
+            "text": "En el improbable caso de que se produzca una violación de datos que afecte a sus datos personales, le notificaremos a usted y a la autoridad supervisora pertinente según lo exija la ley."
+          }
+        ]
+      },
+      {
+        "title": "Sus derechos según el RGPD",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Como persona interesada en la UE, tiene los siguientes derechos respecto a sus datos personales que almacenamos o procesamos:"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho de acceso"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho de rectificación"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho de supresión"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho a la limitación del tratamiento"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho de oposición"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho a la portabilidad de los datos"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho a retirar el consentimiento"
+          },
+          {
+            "kind": "listItem",
+            "text": "Derecho a no ser objeto de decisiones automatizadas"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Para ejercer cualquiera de estos derechos, contáctenos en info@abstract-technology.de con su solicitud específica. Es posible que necesitemos verificar su identidad. Responderemos a su solicitud lo antes posible y a más tardar en un mes, de conformidad con el RGPD."
+          },
+          {
+            "kind": "paragraph",
+            "text": "Si cree que nuestro procesamiento de sus datos personales infringe la ley, también tiene derecho a presentar una reclamación ante una autoridad de protección de datos en su país. Le animamos a contactarnos primero para que podamos abordar sus inquietudes."
+          }
+        ]
+      },
+      {
+        "title": "Sus opciones y controles",
+        "items": [
+          {
+            "kind": "subheading",
+            "text": "Preferencias de cookies"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Cuando visite nuestro sitio por primera vez, se le presentará un banner de consentimiento de cookies. Las cookies no esenciales están desactivadas por defecto hasta que las acepte. Puede actualizar sus preferencias en cualquier momento mediante el enlace \"Gestionar cookies\" o eliminando las cookies de su navegador."
+          },
+          {
+            "kind": "subheading",
+            "text": "Exclusión de análisis"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Además de gestionar a través de nuestro banner o la configuración del navegador, Google ofrece un complemento de navegador para desactivar Google Analytics. Respetamos la señal Do Not Track (DNT): si su navegador está configurado en DNT, nuestros análisis se desactivarán por defecto."
+          },
+          {
+            "kind": "subheading",
+            "text": "Comunicaciones por correo electrónico"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Si se ha suscrito a comunicaciones de Drone4Build (por ejemplo, un boletín), puede cancelar la suscripción en cualquier momento a través del enlace proporcionado en el correo electrónico o contactándonos para que le eliminemos de la lista. Respetaremos dichas solicitudes de inmediato."
+          }
+        ]
+      },
+      {
+        "title": "Enlaces a otros sitios web",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Nuestro sitio web contiene enlaces a sitios externos, como páginas de instituciones asociadas o recursos relevantes. Si hace clic en un enlace de terceros, será dirigido a un sitio web externo no operado por nosotros. Esta Política de Privacidad se aplica solo al sitio de Drone4Build. Le recomendamos revisar las políticas de privacidad de los sitios externos. No tenemos control sobre el contenido o las prácticas de privacidad de terceros."
+          },
+          {
+            "kind": "subheading",
+            "text": "Presencia en redes sociales"
+          },
+          {
+            "kind": "paragraph",
+            "text": "El proyecto Drone4Build mantiene presencia en plataformas de terceros, específicamente LinkedIn, para difundir actualizaciones del proyecto. Tenga en cuenta que el procesamiento de sus datos en LinkedIn se rige principalmente por la política de privacidad de LinkedIn. No exportamos sus datos personales de LinkedIn a nuestros sistemas. Para más detalles, consulte nuestro Aviso legal de redes sociales."
+          },
+          {
+            "kind": "subheading",
+            "text": "Cambios en esta Política de Privacidad"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Podemos actualizar esta Política de Privacidad periódicamente, por ejemplo para reflejar cambios en los requisitos legales o en nuestras prácticas. Las modificaciones se publicarán en esta página con una nueva fecha de \"Última actualización\". En caso de cambios significativos, también podremos notificarle mediante un aviso en nuestra página de inicio o por correo electrónico. Le recomendamos revisar esta página periódicamente."
+          }
+        ]
+      },
+      {
+        "title": "Contáctenos",
+        "items": [
+          {
+            "kind": "paragraph",
+            "text": "Si tiene alguna pregunta, inquietud o solicitud respecto a esta Política de Privacidad o al procesamiento de sus datos personales, contáctenos:"
+          },
+          {
+            "kind": "contactLine",
+            "text": "Abstract-Technology GmbH (Coordinador de Drone4Build)"
+          },
+          {
+            "kind": "contactLine",
+            "text": "Manfred-von-Richthofen-Straße 4, 12101 Berlín, Alemania"
+          },
+          {
+            "kind": "paragraph",
+            "text": "Por favor, incluya en su correspondencia cualquier detalle relevante que nos ayude a asistirle (por ejemplo, el contexto en el que proporcionó los datos o los derechos que desea ejercer). Estaremos encantados de atender sus consultas."
+          }
+        ]
+      }
+    ]
+  },
+  "cookiesPolicyPage": {
+    "title": "Política de cookies",
+    "lastUpdated": "Última actualización: enero de 2026",
+    "intro": [
+      "Esta Política de Cookies explica cómo el proyecto Drone4Build utiliza cookies y tecnologías de seguimiento similares en el sitio web https://drone4build.eu. También describe sus opciones respecto a las cookies.",
+      "Esta política está diseñada para leerse junto con nuestra Política de Privacidad que proporciona más detalles sobre nuestro procesamiento de datos. Al utilizar nuestro sitio web con las cookies habilitadas, usted consiente nuestro uso de cookies como se describe aquí. Se le habrá dado la opción de aceptar o rechazar ciertas cookies en su primera visita."
+    ],
+    "whatAreCookies": {
+      "title": "¿Qué son las cookies?",
+      "intro": "Las cookies son pequeños archivos de texto que se colocan en su ordenador o dispositivo cuando visita un sitio web. Permiten al sitio web reconocer su dispositivo y almacenar cierta información sobre sus preferencias o acciones pasadas. Las cookies pueden servir para muchas funciones, como mantenerle conectado, recordar la configuración del sitio o recopilar datos de uso.",
+      "typesIntro": "Existen diferentes tipos de cookies:",
+      "types": [
+        {
+          "title": "Cookies de origen",
+          "description": "Estas son establecidas por el sitio web que está visitando (en este caso, drone4build.eu) y solo pueden ser leídas por nuestro sitio."
+        },
+        {
+          "title": "Cookies de terceros",
+          "description": "Estas son establecidas por dominios distintos a nuestro sitio web, normalmente cuando integramos contenido o servicios de otros proveedores (por ejemplo, analíticas o redes sociales)."
+        },
+        {
+          "title": "Cookies de sesión",
+          "description": "Cookies temporales que duran solo mientras su navegador está abierto. Se eliminan cuando cierra el navegador. Suelen almacenar cosas como artículos del carrito de compras o si está conectado durante esa sesión."
+        },
+        {
+          "title": "Cookies persistentes",
+          "description": "Cookies que permanecen en su dispositivo durante un período determinado o hasta que las elimine. Recuerdan sus preferencias entre sesiones (por ejemplo, el idioma elegido)."
+        }
+      ],
+      "note": "Las cookies en sí no ejecutan programas ni infectan su dispositivo con malware. Son simplemente datos de texto."
+    },
+    "howWeUse": {
+      "title": "Cómo usamos las cookies",
+      "intro": "Utilizamos cookies para garantizar y mejorar la funcionalidad adecuada de nuestro sitio web, recordar sus preferencias y recopilar información analítica anónima. Las cookies en el sitio de Drone4Build se clasifican en las siguientes categorías:",
+      "categories": [
+        {
+          "title": "Cookies estrictamente necesarias (esenciales)",
+          "description": "Estas cookies son necesarias para que el sitio funcione correcta y seguramente. Sin ellas, las funciones principales del sitio podrían no funcionar. No almacenan información personal identificable y suelen ser cookies de sesión. Base legal: Nuestro interés legítimo en proporcionar un sitio web funcional."
+        },
+        {
+          "title": "Cookies de preferencias",
+          "description": "Estas cookies recuerdan sus configuraciones y opciones para una experiencia más personalizada. Por ejemplo, una cookie puede almacenar su preferencia de idioma. Base legal: Consentimiento."
+        },
+        {
+          "title": "Cookies analíticas",
+          "description": "Estas cookies recopilan información sobre cómo los visitantes utilizan nuestro sitio: qué páginas son más visitadas, cómo navegan los usuarios, etc. Utilizamos principalmente Google Analytics para este fin. Los datos recopilados son anónimos y agregados. Base legal: Su consentimiento. Estas cookies solo se activarán con su autorización."
+        },
+        {
+          "title": "Cookies de terceros y contenido incrustado",
+          "description": "Nuestro sitio puede incluir contenido y funciones de terceros, como vídeos (YouTube), mapas o botones de compartir en redes sociales. Cuando visita una página con contenido de terceros integrado, esos proveedores pueden establecer sus propias cookies en su navegador. Estas cookies son establecidas por los dominios de terceros y están fuera de nuestro control directo."
+        }
+      ]
+    },
+    "keyCookies": {
+      "title": "Cookies clave utilizadas en nuestro sitio",
+      "intro": "A continuación resumimos las cookies clave utilizadas en nuestro sitio (nota: los nombres y detalles de las cookies son ilustrativos y pueden cambiar a medida que actualizamos nuestro sitio):",
+      "headers": {
+        "name": "Nombre de la cookie",
+        "type": "Tipo",
+        "provider": "Proveedor",
+        "purpose": "Finalidad",
+        "expiry": "Caducidad"
+      },
+      "rows": [
+        {
+          "name": "cookieConsent",
+          "type": "Esencial",
+          "provider": "drone4build.eu",
+          "purpose": "Recuerda sus preferencias de consentimiento de cookies",
+          "expiry": "1 año (persistente)"
+        },
+        {
+          "name": "_ga",
+          "type": "Analítica",
+          "provider": "Google (drone4build.eu)",
+          "purpose": "Registra un ID único para generar datos estadísticos sobre el uso del sitio web",
+          "expiry": "2 años (persistente)"
+        },
+        {
+          "name": "_gid",
+          "type": "Analítica",
+          "provider": "Google (drone4build.eu)",
+          "purpose": "Se utiliza para distinguir usuarios para análisis",
+          "expiry": "24 horas (persistente)"
+        },
+        {
+          "name": "_gat or _ga_",
+          "type": "Analítica",
+          "provider": "Google (drone4build.eu)",
+          "purpose": "Se utiliza para limitar la tasa de solicitudes",
+          "expiry": "1 minuto (persistente)"
+        },
+        {
+          "name": "linkedin_oauth (example)",
+          "type": "Social de terceros",
+          "provider": "LinkedIn.com",
+          "purpose": "Se establece si nuestro sitio tiene una integración con LinkedIn, para verificar el estado de inicio de sesión o habilitar el uso compartido en redes sociales. Puede rastrear su visita para personalizar la publicidad en LinkedIn.",
+          "expiry": "Varía (terceros)"
+        },
+        {
+          "name": "YoutubeCookies (various)",
+          "type": "Medios de terceros",
+          "provider": "YouTube (google.com)",
+          "purpose": "Se establece cuando un vídeo de YouTube está integrado/se reproduce en nuestro sitio, para rastrear las visualizaciones del vídeo y las preferencias del usuario.",
+          "expiry": "Varía (terceros)"
+        }
+      ]
+    },
+    "choices": {
+      "title": "Sus opciones de cookies y cómo controlar las cookies",
+      "items": [
+        {
+          "title": "Consentimiento en la primera visita",
+          "description": "Cuando visite nuestro sitio por primera vez, tendrá la oportunidad de aceptar o rechazar diferentes categorías de cookies (excepto las estrictamente necesarias, que están siempre activas). Registramos sus preferencias en una cookie (cookieConsent) para que en visitas posteriores el sitio recuerde sus elecciones."
+        },
+        {
+          "description": "Si desea cambiar su decisión, puede hacerlo en cualquier momento. Estas son las formas en que puede controlar o eliminar cookies:"
+        },
+        {
+          "title": "Herramienta de consentimiento de cookies",
+          "description": "Si está disponible en nuestro sitio (por ejemplo, un enlace \"Configuración de cookies\"), puede reabrir el gestor de preferencias de cookies y ajustar sus consentimientos. Esto le permite retirar el consentimiento para las cookies analíticas."
+        },
+        {
+          "title": "Configuración del navegador",
+          "description": "La mayoría de los navegadores web le permiten rechazar nuevas cookies, eliminar las existentes o recibir notificaciones. Normalmente puede encontrar estas opciones en \"Configuración\" o \"Privacidad\" de su navegador."
+        },
+        {
+          "title": "Mecanismos de exclusión",
+          "description": "Para analíticas, Google proporciona un complemento de navegador para desactivar Google Analytics. Su instalación impedirá que Google Analytics establezca cookies y recopile datos en cualquier sitio web que lo utilice."
+        },
+        {
+          "title": "Consecuencias de desactivar las cookies",
+          "description": "Si elimina o bloquea las cookies, ciertas funciones de nuestro sitio podrían verse afectadas. Por ejemplo, verá el banner de consentimiento cada vez, o su idioma elegido podría no guardarse. Bloquear todas las cookies también podría impedir que el contenido incrustado (como vídeos) funcione correctamente."
+        }
+      ]
+    },
+    "thirdParty": {
+      "title": "Cookies de terceros e información adicional",
+      "paragraphs": [
+        "Algunas cookies que utilizamos son de terceros. No tenemos control directo sobre estas cookies ni sobre los datos que recopilan. Estos terceros pueden utilizar la información recopilada para sus propios fines, como mejorar sus servicios o publicidad.",
+        "Le recomendamos revisar las políticas de cookies y privacidad de esos proveedores para más detalles."
+      ],
+      "changesTitle": "Cambios en esta Política de Cookies",
+      "changes": "Podemos actualizar esta Política de Cookies para reflejar cambios en tecnología, legislación o nuestro uso de cookies. Cuando realicemos cambios, revisaremos la fecha \"Última actualización\" en la parte superior. Los cambios significativos podrán comunicarse mediante un aviso en nuestro sitio web.",
+      "contactTitle": "Contacto",
+      "contact": "Si tiene alguna pregunta sobre nuestro uso de cookies, puede contactarnos en <email>info@abstract-technology.de</email>. Para más información sobre cómo manejamos los datos personales, consulte nuestra <privacyPolicy>Política de Privacidad</privacyPolicy>."
+    }
+  },
+  "legalNoticePage": {
+    "title": "Aviso legal / Pie de imprenta",
+    "summaryBlocks": [
+      {
+        "title": "Propietario del sitio web / Proveedor",
+        "lines": [
+          "Abstract-Technology GmbH (Coordinador del proyecto Drone4Build)",
+          "Manfred-von-Richthofen-Straße 4, 4ª planta, 12101 Berlín, Alemania"
+        ]
+      },
+      {
+        "title": "Contacto",
+        "lines": [
+          "Correo electrónico: info@abstract-technology.de",
+          "Tel.: +49 30 214 611 08"
+        ]
+      },
+      {
+        "title": "Responsable del contenido del sitio web (según § 18 párr. 2 MStV)",
+        "lines": [
+          "Stefania Trabucchi, Directora General, Abstract-Technology GmbH"
+        ]
+      },
+      {
+        "title": "Registro mercantil",
+        "lines": [
+          "Registrada en Amtsgericht Berlin Charlottenburg, HRB 164255 B",
+          "NIF IVA: DE 815557971"
+        ],
+        "paragraph": "Este pie de imprenta proporciona la identificación del proveedor y la información de contacto legalmente requeridas para el sitio web del proyecto Drone4Build, en cumplimiento de las normativas alemanas/de la UE."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Finalidad del sitio web",
+        "paragraphs": [
+          "Drone4Build es un proyecto educativo Erasmus+ (KA220-VET) centrado en el uso de drones en el sector de la construcción con fines educativos y de formación. El sitio web sirve para informar al público sobre el proyecto, sus socios, actividades y resultados. Es un sitio no comercial."
+        ]
+      },
+      {
+        "title": "Responsabilidad y exención de responsabilidad del contenido",
+        "paragraphs": [
+          "Nos esforzamos por mantener toda la información en este sitio web precisa, actualizada y completa. Sin embargo, el consorcio Drone4Build no puede garantizar que todo el contenido esté libre de errores o sea adecuado para todos los fines. El contenido se proporciona \"tal cual\" como información general. Los usuarios asumen la responsabilidad de cómo utilizan la información."
+        ]
+      },
+      {
+        "title": "Sin garantía de exactitud ni actualización",
+        "paragraphs": [
+          "Aunque hacemos esfuerzos profesionales para verificar y actualizar la información, excluimos cualquier responsabilidad por posibles daños o pérdidas resultantes de información incorrecta o incompleta en este sitio. El uso de cualquier información obtenida de este sitio web es bajo su propio riesgo."
+        ]
+      },
+      {
+        "title": "Disponibilidad del servicio",
+        "paragraphs": [
+          "No garantizamos que el sitio web esté disponible de forma continua o sin interrupciones. Nos reservamos el derecho de modificar, suspender o interrumpir partes del sitio o el servicio completo en cualquier momento. No somos responsables por la indisponibilidad temporal, retrasos o errores."
+        ]
+      },
+      {
+        "title": "Enlaces externos",
+        "paragraphs": [
+          "Este sitio web contiene enlaces a sitios web de terceros. Proporcionamos estos enlaces con fines informativos. No tenemos influencia sobre el contenido de estos sitios externos y no asumimos responsabilidad alguna por su contenido, exactitud o disponibilidad. La inclusión de un enlace no implica respaldo. Los usuarios siguen los enlaces externos bajo su propio riesgo."
+        ]
+      },
+      {
+        "title": "Propiedad intelectual y derechos de autor",
+        "paragraphs": [
+          "Salvo que se indique lo contrario, el contenido de este sitio web – incluidos textos, imágenes, gráficos, logotipos, documentos y diseño – es propiedad intelectual del consorcio Drone4Build o sus socios y está protegido por derechos de autor. Todos los derechos reservados. Ninguna parte de este sitio web puede ser copiada, reproducida, modificada o redistribuida sin autorización previa por escrito."
+        ]
+      },
+      {
+        "title": "Sin responsabilidad por problemas técnicos",
+        "paragraphs": [
+          "Nos tomamos en serio la ciberseguridad e implementamos medidas de protección. Sin embargo, Abstract-Technology GmbH y el consorcio Drone4Build no son responsables de daños causados por problemas técnicos o contenido malicioso (como virus, malware o ataques). Recomendamos encarecidamente el uso de software antivirus actualizado."
+        ]
+      },
+      {
+        "title": "Sin relación contractual",
+        "paragraphs": [
+          "El uso de este sitio web no crea ninguna relación contractual o legal contra el consorcio del proyecto o sus miembros. La mera visualización o descarga de contenido no establece ningún acuerdo de servicio."
+        ]
+      },
+      {
+        "title": "Acuerdo de términos de uso",
+        "paragraphs": [
+          "Al acceder y utilizar este sitio web, usted (el \"Usuario\") acepta cumplir con los términos y condiciones establecidos en este Aviso Legal y en la página separada de Términos de Uso. Si no está de acuerdo, por favor absténgase de utilizar nuestro sitio. Nos reservamos el derecho de modificar este sitio o sus términos en cualquier momento."
+        ]
+      },
+      {
+        "title": "Jurisdicción y legislación aplicable",
+        "paragraphs": [
+          "Este sitio web es operado desde Alemania por Abstract-Technology GmbH. La legislación aplicable para cualquier disputa es la ley de la República Federal de Alemania junto con la normativa aplicable de la UE. El lugar de jurisdicción es Berlín, Alemania, en la medida permitida por la ley."
+        ]
+      },
+      {
+        "title": "Reconocimiento de la financiación Erasmus+ y descargo de responsabilidad",
+        "paragraphs": [
+          "Drone4Build está cofinanciado por el Programa Erasmus+ de la UE. Agradecemos este apoyo.",
+          "Este proyecto ha sido financiado con el apoyo de la Comisión Europea. Esta publicación (sitio web) refleja únicamente las opiniones de los autores, y la Comisión no se hace responsable del uso que pueda hacerse de la información aquí contenida.",
+          "En otras palabras, cualquier contenido en este sitio web es responsabilidad exclusiva del consorcio Drone4Build y no representa necesariamente la posición oficial de la Comisión Europea ni del Programa Erasmus+. Ni la UE ni la Agencia Nacional son responsables de la información proporcionada."
+        ]
+      },
+      {
+        "title": "Validez del pie de imprenta",
+        "paragraphs": [
+          "Este Aviso Legal es válido para el sitio web del proyecto Drone4Build (drone4build.eu) y cualquier subpágina oficial. Si tiene preguntas o necesita más información sobre los aspectos legales, contáctenos en los datos proporcionados anteriormente."
+        ]
+      }
+    ]
+  },
+  "termsOfUsePage": {
+    "title": "Términos de uso",
+    "intro": [
+      "Estos Términos de Uso rigen su acceso y uso del sitio web del proyecto Drone4Build. Al utilizar nuestro sitio web, acepta estos términos en su totalidad. Si no está de acuerdo con alguna parte de estos términos, por favor no utilice el sitio web.",
+      "Estos términos están diseñados para garantizar una experiencia positiva, legal y segura para todos los usuarios."
+    ],
+    "sections": [
+      {
+        "title": "1. Aceptación de los términos",
+        "items": [
+          {
+            "text": "El uso de drone4build.eu (el \"Sitio Web\") está sujeto a los siguientes términos y a todas las leyes aplicables. Los usuarios aceptan automáticamente estos términos. Podemos actualizar estos términos en cualquier momento. El uso continuado después de los cambios constituye aceptación de los términos revisados."
+          }
+        ]
+      },
+      {
+        "title": "2. Uso permitido del sitio web",
+        "items": [
+          {
+            "text": "Puede utilizar este sitio web exclusivamente con fines informativos y no comerciales relacionados con el proyecto Drone4Build. Se le concede una licencia limitada y revocable para acceso personal."
+          }
+        ]
+      },
+      {
+        "title": "3. Propiedad del contenido y propiedad intelectual",
+        "items": [
+          {
+            "text": "Todo el contenido presentado en el sitio web de Drone4Build, incluidos textos, gráficos, logotipos, imágenes, documentos, archivos descargables y el diseño del sitio, es propiedad del consorcio Drone4Build o sus proveedores de contenido y está protegido por derechos de autor y marca."
+          },
+          {
+            "text": "Los entregables, informes y artículos del proyecto son propiedad del consorcio o del socio específico. Pueden estar disponibles bajo ciertas licencias. Sin aviso de licencia específica, se asume que todos los derechos están reservados.",
+            "title": "Materiales de Drone4Build y socios"
+          },
+          {
+            "text": "Puede ver, descargar o imprimir materiales para uso informativo, educativo o no comercial propio, siempre que no elimine las notas de atribución o derechos de autor. Si comparte contenido, cite \"Proyecto Drone4Build Erasmus+\" como fuente.",
+            "title": "Uso permitido del contenido"
+          },
+          {
+            "text": "Acceder a este sitio web no le otorga propiedad ni derechos sobre nuestro contenido. No puede usar el nombre \"Drone4Build\" ni los logotipos sin autorización. Todos los derechos no concedidos expresamente quedan reservados.",
+            "title": "Sin transferencia de derechos"
+          },
+          {
+            "text": "Algunos contenidos de nuestro sitio pueden pertenecer a terceros (por ejemplo, logotipos de Erasmus+ o instituciones asociadas). Dichos materiales siguen siendo propiedad de sus respectivos titulares. Su uso puede estar sujeto a los términos de dichos terceros.",
+            "title": "Contenido de terceros"
+          }
+        ]
+      },
+      {
+        "title": "4. Exención de garantías",
+        "items": [
+          {
+            "text": "La información en este sitio web se publica de buena fe y con fines informativos generales. Sin embargo, el sitio y todo su contenido se proporcionan \"tal cual\" y \"según disponibilidad\", sin garantía de ningún tipo. El consorcio Drone4Build rechaza todas las garantías expresas o implícitas."
+          },
+          {
+            "text": "No garantizamos que el contenido sea preciso, completo o actualizado. Cualquier confianza depositada en el material es bajo su propio riesgo. Tampoco garantizamos que el sitio esté siempre disponible o libre de errores, virus u otros componentes dañinos.",
+            "title": "Uso bajo su propia responsabilidad"
+          }
+        ]
+      },
+      {
+        "title": "5. Limitación de responsabilidad",
+        "items": [
+          {
+            "text": "En ningún caso Abstract-Technology GmbH ni ninguna organización asociada de Drone4Build serán responsables de daños directos, indirectos, incidentales, especiales, consecuentes o ejemplares que surjan del uso de este sitio web. Estas limitaciones se aplican en la máxima medida permitida por la ley."
+          }
+        ]
+      },
+      {
+        "title": "6. Enlaces externos y servicios de terceros",
+        "items": [
+          {
+            "text": "Nuestro sitio puede proporcionar enlaces a sitios web externos o integrar servicios de terceros. Esto no significa respaldo. No asumimos responsabilidad por contenido disponible en dichos sitios externos."
+          }
+        ]
+      },
+      {
+        "title": "7. Contenido generado por el usuario (si aplica)",
+        "items": [
+          {
+            "text": "Actualmente, nuestro sitio web no tiene foros, secciones de comentarios ni cuentas de usuario. Si introducimos funciones interactivas, los usuarios serían responsables de su contenido. Nos reservamos el derecho de revisar, editar o eliminar contenido generado por usuarios."
+          }
+        ]
+      },
+      {
+        "title": "8. Terminación del uso",
+        "items": [
+          {
+            "text": "Nos reservamos el derecho de terminar o suspender su acceso al sitio web en cualquier momento, con o sin previo aviso, por ejemplo si consideramos que ha violado estos Términos de Uso."
+          }
+        ]
+      },
+      {
+        "title": "9. Divisibilidad",
+        "items": [
+          {
+            "text": "Si alguna disposición se declara inválida, se aplicará en la máxima medida permisible y el resto de los Términos seguirá en pleno vigor y efecto."
+          }
+        ]
+      },
+      {
+        "title": "10. Legislación aplicable y jurisdicción",
+        "items": [
+          {
+            "text": "Estos Términos y cualquier disputa se regirán por la legislación alemana y la legislación aplicable de la UE. Cualquier disputa estará bajo la jurisdicción de los tribunales de Berlín, Alemania."
+          }
+        ]
+      },
+      {
+        "title": "11. Contexto del Programa Erasmus+",
+        "items": [
+          {
+            "text": "Este es un sitio web de un proyecto Erasmus+. Los usuarios deben comprender que, como proyecto financiado por la UE, cumplimos ciertos requisitos de transparencia y publicidad. Al utilizar este sitio, reconoce la naturaleza educativa y colaborativa del proyecto."
+          }
+        ]
+      },
+      {
+        "title": "12. Información de contacto",
+        "items": [
+          {
+            "text": "Si tiene alguna pregunta sobre estos Términos de Uso, contáctenos: Abstract-Technology GmbH - Coordinador de Drone4Build, Manfred-von-Richthofen-Str. 4, 12101 Berlín, Alemania, Email: info@abstract-technology.de"
+          },
+          {
+            "text": "Esperamos que encuentre el sitio web de Drone4Build informativo y útil. Gracias por leer estos Términos de Uso. ¡Disfrute explorando nuestro trabajo!"
+          }
+        ]
+      }
+    ]
+  },
+  "socialMediaDisclaimerPage": {
+    "title": "Aviso legal de redes sociales",
+    "intro": [
+      "El proyecto Drone4Build interactúa con la comunidad a través de ciertas plataformas de redes sociales, específicamente LinkedIn. Esta sección explica nuestra presencia en redes sociales y proporciona importantes avisos legales sobre privacidad de datos y responsabilidad.",
+      "Esta sección explica nuestra presencia en redes sociales y proporciona importantes avisos legales sobre privacidad de datos y responsabilidad cuando interactúa con nosotros en esas plataformas o encuentra contenido de redes sociales a través de nuestro sitio web."
+    ],
+    "sections": [
+      {
+        "title": "Presencia del proyecto en LinkedIn",
+        "items": [
+          {
+            "text": "Drone4Build mantiene una página oficial del proyecto en LinkedIn. El propósito es compartir actualizaciones, resultados y oportunidades de networking. Su participación es completamente voluntaria. Cuando sigue, comenta o comparte nuestras publicaciones, lo hace en la plataforma LinkedIn, que tiene sus propios términos de servicio y política de privacidad."
+          }
+        ]
+      },
+      {
+        "title": "Privacidad de datos en LinkedIn",
+        "items": [
+          {
+            "text": "Si tiene una cuenta de LinkedIn y interactúa con nuestra página, LinkedIn puede procesar sus datos personales. No exportamos datos personales de seguidores individuales desde LinkedIn. La información que comparta en LinkedIn (incluidos comentarios) puede ser visible para otros según su configuración de privacidad."
+          }
+        ]
+      },
+      {
+        "title": "Recopilación de datos de LinkedIn",
+        "items": [
+          {
+            "text": "LinkedIn puede usar cookies, píxeles y otras tecnologías de seguimiento para recopilar datos sobre su navegación. Este procesamiento se rige por las propias políticas de privacidad y cookies de LinkedIn, no por las nuestras. Le aconsejamos consultar la Política de Privacidad de LinkedIn."
+          }
+        ]
+      },
+      {
+        "title": "Sin respaldo de la UE",
+        "items": [
+          {
+            "text": "Aunque utilizamos LinkedIn para promocionar nuestro proyecto, esto no significa que la Comisión Europea o Erasmus+ respalden formalmente LinkedIn como plataforma. Lo elegimos como red profesional popular para llegar a nuestros grupos de interés."
+          }
+        ]
+      },
+      {
+        "title": "Plataformas de terceros y uso de datos",
+        "items": [
+          {
+            "text": "Más allá de LinkedIn, si Drone4Build crea cuentas en otras redes sociales (como Twitter, Facebook, Instagram, YouTube, etc.), se aplican principios similares."
+          },
+          {
+            "title": "Se aplican las políticas de la plataforma",
+            "text": "Cada plataforma tiene sus propios términos. Al utilizar nuestro contenido en esas plataformas, está sujeto a sus términos. Le animamos a revisar sus configuraciones y políticas de privacidad."
+          },
+          {
+            "title": "Intercambio de datos",
+            "text": "Las empresas de redes sociales suelen compartir estadísticas con los administradores de páginas. Sin embargo, los datos brutos no se nos proporcionan. Podemos ver su perfil público si interactúa."
+          },
+          {
+            "title": "Interacciones públicas",
+            "text": "Recuerde que las interacciones públicas (retuits, respuestas, comentarios) son generalmente visibles para el mundo. No comparta datos personales que no quiera hacer públicos. No podemos controlar cómo otros usan la información publicada."
+          }
+        ]
+      },
+      {
+        "title": "Sin responsabilidad por plataformas de terceros",
+        "items": [
+          {
+            "text": "El consorcio Drone4Build no es responsable de las acciones, contenido o políticas de datos de plataformas de redes sociales. Son servicios de terceros sobre los que no tenemos control. No podemos ser considerados responsables de violaciones de privacidad en esas plataformas. Si prefiere no usar redes sociales, toda la información importante del proyecto también está disponible en nuestro sitio web."
+          }
+        ]
+      },
+      {
+        "title": "Integración en nuestro sitio web",
+        "items": [
+          {
+            "text": "Nuestro sitio web puede incluir elementos de redes sociales (como vídeos de YouTube o publicaciones de LinkedIn integrados). Tales elementos integrados pueden actuar como si visitara directamente el sitio de terceros. Normalmente diseñamos el sitio para que el contenido de terceros esté inactivo hasta que interactúe o según su configuración de cookies."
+          }
+        ]
+      },
+      {
+        "title": "Orientación para usuarios",
+        "items": [
+          {
+            "title": "Configuración de privacidad",
+            "text": "Revise su configuración de privacidad en LinkedIn (y en cualquier otra red social que utilice). Ajustar estas configuraciones puede ayudar a proteger su información."
+          },
+          {
+            "title": "Conducta profesional",
+            "text": "Nuestras páginas de redes sociales son públicas y están frecuentemente asociadas con comunidades profesionales. Por favor, interactúe respetuosamente. Los comentarios abusivos o inapropiados pueden ser eliminados."
+          },
+          {
+            "title": "Mensajes personales",
+            "text": "Si necesita compartir información personal con el equipo de Drone4Build, considere hacerlo a través de un mensaje privado o correo electrónico en lugar de un comentario público."
+          },
+          {
+            "title": "Enlaces de terceros en redes sociales",
+            "text": "Nuestras publicaciones en redes sociales pueden contener enlaces a otros sitios web. Al igual que nuestro aviso sobre enlaces web, no somos responsables del contenido de esos sitios externos."
+          }
+        ]
+      },
+      {
+        "title": "Regulaciones de la UE y redes sociales",
+        "items": [
+          {
+            "text": "Como parte de un proyecto financiado por la UE, nos esforzamos por mantener los principios de protección de datos incluso en redes sociales. Seguimos las directrices de la Comisión Europea sobre el uso de redes sociales por proyectos. Sin embargo, los datos que proporcione directamente a una empresa de redes sociales están bajo su custodia."
+          }
+        ]
+      },
+      {
+        "title": "Descargo de responsabilidad final",
+        "items": [
+          {
+            "text": "Sus interacciones con Drone4Build en redes sociales son valoradas y ayudan a difundir nuestros resultados. Sin embargo, tenga en cuenta que estas interacciones también están sujetas a los términos y algoritmos de esas redes. Ni Drone4Build ni sus socios serán responsables por el mal uso de datos por parte de proveedores de redes sociales u otros terceros."
+          },
+          {
+            "text": "Contacto: Si tiene preguntas específicas sobre nuestro uso de redes sociales o una situación que involucre nuestras páginas, contacte a nuestro equipo en info@abstract-technology.de."
+          },
+          {
+            "text": "Este Aviso Legal de Redes Sociales se proporciona para garantizar la transparencia sobre la presencia en línea de Drone4Build y para proteger tanto al proyecto como a los usuarios. Última actualización: enero de 2026."
+          }
+        ]
+      }
+    ]
+  },
+  "projectPage": {
+    "title": "About the Drone4Build Project",
+    "hero": {
+      "heading": "About the Drone4Build Project",
+      "subheading": "Drone4Build is an Erasmus+ KA220-VET Cooperation Partnership that brings together seven organisations from five European countries to develop training programmes and an open learning platform for using drones in building renovation and retrofitting."
+    },
+    "glance": {
+      "title": "Project at a Glance",
+      "items": [
+        {
+          "label": "Programme",
+          "value": "Erasmus+ KA220-VET - Cooperation Partnerships in Vocational Education and Training"
+        },
+        {
+          "label": "Project Number",
+          "value": "2025-1-DE02-KA220-VET-000362152"
+        },
+        {
+          "label": "Duration",
+          "value": "September 2025 - December 2027 (28 months)"
+        },
+        {
+          "label": "Coordinator",
+          "value": "Abstract Technology GmbH, Berlin, Germany"
+        },
+        {
+          "label": "Countries",
+          "value": "Germany, Spain, Greece, Italy, North Macedonia"
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Drone4Build?",
+      "paragraphs": [
+        "Europe's construction sector faces a dual challenge: a growing need for digital transformation and a persistent shortage of workers with the right skills. The EU Renovation Wave aims to double energy renovation rates, demanding millions of professionals equipped with new technologies. Yet vocational training has not kept pace with rapidly evolving tools like drones, BIM, and digital twins.",
+        "Drone4Build bridges this gap by creating purpose-built training resources, validated by industry stakeholders and aligned with the European Digital Competence Framework, the EU Green Deal, and Construction 5.0 principles."
+      ]
+    },
+    "workPackages": {
+      "title": "How We Work: Five Work Packages",
+      "items": [
+        {
+          "label": "WP1",
+          "title": "Project Management & Coordination",
+          "lead": "Abstract Technology",
+          "description": "Ensures quality delivery, financial management, partner coordination, and reporting to the Erasmus+ National Agency throughout the project lifecycle."
+        },
+        {
+          "label": "WP2",
+          "title": "Digital Skills Ecosystem for Drones",
+          "lead": "K&S Centre",
+          "description": "Produces the strategic skills report, organises stakeholder validation workshops across all partner countries, and develops the drone competency framework mapped to DigComp 3.0."
+        },
+        {
+          "label": "WP3",
+          "title": "Training Programme Development",
+          "lead": "FLC",
+          "description": "Designs blended curricula with face-to-face and online components, covering drone operations, data processing, safety, and regulatory compliance for EQF level 4-5 construction professionals."
+        },
+        {
+          "label": "WP4",
+          "title": "Pilot Testing & Train-the-Trainer",
+          "lead": "IIPLE",
+          "description": "Delivers pilot courses in each partner country and conducts train-the-trainer workshops, producing guidelines for Europe-wide rollout of drone training in VET institutions."
+        },
+        {
+          "label": "WP5",
+          "title": "Industry Collaboration & Sustainability",
+          "lead": "PEDMEDE",
+          "description": "Engages construction companies, manufacturers, policymakers, and associations through round tables, hackathons, and dissemination events. Builds an EPALE community of practice for long-term sustainability."
+        }
+      ]
+    },
+    "priorities": {
+      "title": "Aligned with EU Priorities",
+      "description": "Drone4Build directly supports the EU Digital Strategy, the Renovation Wave, and the Green Deal. The project builds on proven methodologies from projects such as Construction Blueprint, BIM4D, ET4Digital, and TRITON, whilst contributing to the European Skills Agenda and the Pact for Skills in Construction."
+    }
+  },
+  "partnersPage": {
+    "hero": {
+      "eyebrow": "Drone4Build Consortium",
+      "title": "Our Partners",
+      "description": "Seven organisations from five European countries are working together to transform how construction professionals learn drone technology.",
+      "countries": [
+        {
+          "flag": "🇩🇪",
+          "label": "Germany"
+        },
+        {
+          "flag": "🇪🇸",
+          "label": "Spain"
+        },
+        {
+          "flag": "🇬🇷",
+          "label": "Greece"
+        },
+        {
+          "flag": "🇮🇹",
+          "label": "Italy"
+        },
+        {
+          "flag": "🇲🇰",
+          "label": "North Macedonia"
+        }
+      ]
+    },
+    "consortium": {
+      "title": "Consortium Partners",
+      "intro": "The Drone4Build partnership combines vocational training, drone operations, digital learning, and industry engagement expertise across Europe.",
+      "items": [
+        {
+          "name": "Abstract Technology",
+          "legalName": "Abstract Technology GmbH",
+          "location": "Berlin, Germany",
+          "logoSrc": "/partner-abstract-logo.png",
+          "logoAlt": "Abstract Technology logo",
+          "role": "Project Management & Digital Platform",
+          "description": "An eLearning technology agency specialising in customised Learning Management Systems for educational institutions and VET providers. Abstract Technology leads the project coordination, oversees quality delivery, financial management, and partner reporting to the Erasmus+ National Agency. The team also develops the open-source learning platform that will host Drone4Build training content.",
+          "websiteHref": "https://abstract-technology.de",
+          "websiteLabel": "abstract-technology.de",
+          "badges": [
+            {
+              "label": "Coordinator",
+              "tone": "orange"
+            },
+            {
+              "label": "WP1 Lead"
+            }
+          ],
+          "countryFlag": "🇩🇪",
+          "isCoordinator": true
+        },
+        {
+          "name": "Bau Bildung Sachsen",
+          "legalName": "BFW Berufsförderungswerk Bau Sachsen e.V.",
+          "location": "Leipzig, Germany",
+          "logoSrc": "/partner-BBSN-logo.png",
+          "logoAlt": "Bau Bildung Sachsen logo",
+          "role": "Vocational Training & Green Building",
+          "description": "A vocational education centre responsible for practical training in the main construction trades across Saxony. With a strong focus on sustainable refurbishment and green building, Bau Bildung Sachsen supports the development of training modules and contributes its hands-on expertise in digital learning media to ensure curricula are grounded in real workshop practice.",
+          "websiteHref": "https://www.baubildung.de",
+          "websiteLabel": "baubildung.de",
+          "badges": [
+            {
+              "label": "WP3 Support"
+            }
+          ],
+          "countryFlag": "🇩🇪"
+        },
+        {
+          "name": "Fundación Laboral de la Construcción",
+          "legalName": "FLC — Fundación Laboral de la Construcción",
+          "location": "Madrid, Spain",
+          "logoSrc": "/partner-FLC-logo.png",
+          "logoAlt": "FLC logo",
+          "role": "Curriculum Development & Training Delivery",
+          "description": "Spain's national construction training foundation, training over 70,000 professionals annually across more than 50 centres with over 200 different courses. FLC leads Work Package 3, the design and delivery of the Drone4Build blended learning curriculum, drawing on its deep experience in workforce upskilling and its connection to the European Construction Industry Federation via CNC.",
+          "websiteHref": "https://www.fundacionlaboral.org",
+          "websiteLabel": "fundacionlaboral.org",
+          "badges": [
+            {
+              "label": "WP3 Lead"
+            }
+          ],
+          "countryFlag": "🇪🇸"
+        },
+        {
+          "name": "Hellenic Drones",
+          "legalName": "Artemis Agraia Symvoyleutiki Anonymi etairia",
+          "location": "Piraeus, Greece",
+          "logoSrc": "/partner-HD-logo.png",
+          "logoAlt": "Hellenic Drones logo",
+          "role": "Drone Expertise & Certified Training",
+          "description": "A pioneering drone services and training provider based in Greece. Hellenic Drones operates as an EASA-recognised drone academy with more than 4,000 certified graduates and maintains a fleet of multirotor, fixed-wing, and specialist UAS platforms. The company provides technical expertise on the strategic technology roadmap and leads the competency framework mapping to DigComp 3.0.",
+          "websiteHref": "https://www.hellenicdrones.gr",
+          "websiteLabel": "hellenicdrones.gr",
+          "badges": [
+            {
+              "label": "WP2 Technical Lead"
+            }
+          ],
+          "countryFlag": "🇬🇷"
+        },
+        {
+          "name": "K&S Centre",
+          "legalName": "Knowledge and Skills Management Centre K&S Skopje",
+          "location": "Skopje, North Macedonia",
+          "logoSrc": "/partner-KS-logo.png",
+          "logoAlt": "K&S Centre logo",
+          "role": "Research & Skills Ecosystem",
+          "description": "An adult education centre promoting professional development in energy efficiency and construction skills. K&S leads Work Package 2, the Digital Skills Ecosystem, and is the primary author of the strategic report on drone skills in the construction sector. The centre coordinates stakeholder validation workshops across all partner countries and develops the competency framework.",
+          "websiteHref": "https://ks.org.mk/en/home/",
+          "websiteLabel": "ks.org.mk",
+          "badges": [
+            {
+              "label": "WP2 Lead"
+            }
+          ],
+          "countryFlag": "🇲🇰"
+        },
+        {
+          "name": "PEDMEDE",
+          "legalName": "Panhellenic Association of Engineers",
+          "location": "Athens, Greece",
+          "logoSrc": "/partner-PEDMEDE-logo.jpg",
+          "logoAlt": "PEDMEDE logo",
+          "role": "Industry Engagement & Sustainability",
+          "description": "The Panhellenic Association of Engineers represents construction companies and technical professionals across Greece. PEDMEDE leads Work Package 5 on industry collaboration and long-term sustainability, leveraging its ties to FIEC and national public authorities to organise round tables, hackathons, and dissemination events that connect project outputs to real industry demand.",
+          "websiteHref": "https://www.pedmede.gr",
+          "websiteLabel": "pedmede.gr",
+          "badges": [
+            {
+              "label": "WP5 Lead"
+            }
+          ],
+          "countryFlag": "🇬🇷"
+        },
+        {
+          "name": "IIPLE — Scuola Edile di Bologna",
+          "legalName": "Istituto per l'Istruzione Professionale dei Lavoratori Edili della Provincia di Bologna",
+          "location": "Bologna, Italy",
+          "logoSrc": "/partner-Scuola-logo.png",
+          "logoAlt": "IIPLE logo",
+          "role": "Pilot Testing & Train-the-Trainer",
+          "description": "A vocational training institute with more than 80 years of experience in construction education, delivering over 250 courses to 4,200 trainees annually. IIPLE leads Work Package 4, pilot testing and train-the-trainer delivery, and has developed training linking drone data capture with BIM workflows, making it a natural home for testing the Drone4Build curriculum in a real VET environment.",
+          "websiteHref": "https://www.edili.com",
+          "websiteLabel": "edili.com",
+          "badges": [
+            {
+              "label": "WP4 Lead"
+            }
+          ],
+          "countryFlag": "🇮🇹"
+        }
+      ]
+    },
+    "collaboration": {
+      "title": "Interested in collaborating?",
+      "description": "We welcome participation from construction professionals, trainers, companies, and researchers across Europe.",
+      "cta": "Get in Touch"
+    }
+  },
+  "cookieConsent": {
+    "message": "Utilizamos cookies para mejorar su experiencia. Al continuar visitando este sitio, acepta nuestro uso de cookies.",
+    "acceptAll": "Aceptar todo",
+    "rejectAll": "Rechazar todo",
+    "managePreferences": "Gestionar preferencias",
+    "savePreferences": "Guardar preferencias"
+  },
+  "resultsPage": {
+    "hero": {
+      "eyebrow": "Project Deliverables",
+      "title": "Project Results & Deliverables",
+      "description": "Drone4Build produces open-access research, frameworks, and training resources to advance drone skills in Europe's construction sector. Here you can explore our published outputs and what is coming next."
+    },
+    "published": {
+      "sections": [
+        {
+          "title": "A2.1 Strategic Report on Drone Skills in the Construction Sector",
+          "tags": [
+            {
+              "label": "Published",
+              "variant": "orange"
+            },
+            {
+              "label": "WP2"
+            },
+            {
+              "label": "Lead: K&S Centre"
+            },
+            {
+              "label": "Delivered: March 2026"
+            }
+          ],
+          "summary": "This strategic analysis maps the skills landscape for drone technology in construction, with a focus on renovation and retrofitting. Developed through desk research, expert contributions, and cross-country stakeholder input, the report identifies capability gaps and sets out a technology roadmap for the sector.",
+          "cta": {
+            "href": "/reports/a2-1-strategic-report-on-drone-skills.pdf",
+            "download": "A2.1 Strategic Report on Drone Skills.pdf",
+            "label": "Download the Full Report"
+          },
+          "findings": [
+            {
+              "title": "Five Priority Skill Domains",
+              "description": "Operational and flight skills, technical and sensor knowledge, data processing and digital integration, BIM workflow integration, and business and organisational skills were identified as the core capability areas."
+            },
+            {
+              "title": "Three-Phase Roadmap",
+              "description": "The report defines a phased pathway from current operational adoption through integrated BIM and digital-twin workflows to longer-term autonomous and advanced BVLOS-enabled ecosystems."
+            },
+            {
+              "title": "EU Regulatory Analysis",
+              "description": "The study reviews the EASA regulatory landscape across partner countries, covering Open, Specific, and Certified categories relevant to construction drone operations."
+            }
+          ]
+        },
+        {
+          "title": "A2.2 - Integrated Report on Stakeholder Engagement Workshops",
+          "tags": [
+            {
+              "label": "Published",
+              "variant": "orange"
+            },
+            {
+              "label": "WP2"
+            },
+            {
+              "label": "Lead: K&S Centre"
+            },
+            {
+              "label": "Delivered: July 2026"
+            }
+          ],
+          "summary": "This integrated report consolidates the evidence from five national stakeholder engagement workshops conducted in May 2026. Construction professionals, drone operators, VET trainers, and researchers validated the A2.1 strategic report findings, confirmed skills gaps, and provided actionable recommendations for the training curriculum and competency framework. The report also proposes a modular training programme architecture comprising four training courses, each structured into basic and advanced modules, along with a dedicated programme for trainers to be developed in WP4.",
+          "cta": {
+            "href": "/reports/a2-2-integrated-report-on-stakeholder-engagement-workshops.pdf",
+            "download": "A2.2 Integrated Report on Stakeholder Engagement Workshops.pdf",
+            "label": "Download the Full Report"
+          },
+          "findings": [
+            {
+              "title": "Cross-Country Validation",
+              "description": "126 stakeholders across five countries confirmed priority skills needs and training expectations."
+            },
+            {
+              "title": "Curriculum Architecture",
+              "description": "Four courses with basic and advanced modules, plus a dedicated train-the-trainer programme."
+            },
+            {
+              "title": "Strategic Report Improvements",
+              "description": "Evidence-driven refinements to A2.1, including differentiated country readiness analysis."
+            }
+          ]
+        },
+        {
+          "title": "A2.3 - Drone Competency Framework aligned with DigComp 3.0",
+          "tags": [
+            {
+              "label": "Published",
+              "variant": "orange"
+            },
+            {
+              "label": "WP2"
+            },
+            {
+              "label": "Lead: Hellenic Drones"
+            },
+            {
+              "label": "Delivered: July 2026"
+            }
+          ],
+          "summary": "The third and integrative output of WP2, this evidence-based framework defines the essential skills, knowledge, and competencies required for construction professionals engaged in drone-enabled workflows. Aligned with DigComp 3.0, EASA regulatory categories, and EQF proficiency levels 3-5, it serves as the structural backbone of the Drone4Build VET curriculum.",
+          "cta": {
+            "href": "/reports/a2-3-drone-competency-framework.pdf",
+            "download": "A2.3 Drone Competency Framework.pdf",
+            "label": "Download the Full Report"
+          },
+          "findings": [
+            {
+              "title": "6 Domains, 24 Areas, 80+ Descriptors",
+              "description": "A comprehensive competency mapping matrix covering technical, digital, and professional dimensions."
+            },
+            {
+              "title": "DigComp 3.0 Aligned",
+              "description": "Cross-referenced with the 2025 European Digital Competence Framework for Citizens."
+            },
+            {
+              "title": "EQF Levels 3-5",
+              "description": "Proficiency descriptors mapped to the European Qualifications Framework for VET recognition."
+            }
+          ]
+        }
+      ]
+    },
+    "workshops": {
+      "title": "Stakeholder Validation Workshops (A2.2)",
+      "description": "In May 2026, Drone4Build conducted stakeholder engagement workshops in all five partner countries. Drone operators, construction specialists, VET trainers, and researchers reviewed the strategic report findings and validated the identified skills gaps, directly shaping the upcoming curriculum.",
+      "countries": [
+        {
+          "flag": "🇩🇪",
+          "label": "Germany"
+        },
+        {
+          "flag": "🇬🇷",
+          "label": "Greece"
+        },
+        {
+          "flag": "🇮🇹",
+          "label": "Italy"
+        },
+        {
+          "flag": "🇲🇰",
+          "label": "North Macedonia"
+        },
+        {
+          "flag": "🇪🇸",
+          "label": "Spain"
+        }
+      ]
+    },
+    "inProgress": {
+      "eyebrow": "In Progress",
+      "title": "WP3 - Drone4Build Training Programme & Curriculum",
+      "subtitle": "Blended Learning Curriculum Development",
+      "tags": [
+        {
+          "label": "In Progress",
+          "variant": "orange"
+        },
+        {
+          "label": "WP3"
+        },
+        {
+          "label": "Lead: FLC"
+        },
+        {
+          "label": "Begin: July 2026"
+        }
+      ],
+      "summary": "Building directly on the competency framework (A2.3) and workshop recommendations (A2.2), the consortium is now developing a blended learning curriculum. The programme combines face-to-face workshops with interactive online modules delivered through the Drone4Build e-learning platform, covering drone operations, photogrammetric data processing, regulatory compliance, and BIM integration for renovation and retrofitting.",
+      "findings": [
+        {
+          "title": "4 Courses, 8 Modules",
+          "description": "Basic and advanced modules across all competency domains, from flight operations to thermal analysis."
+        },
+        {
+          "title": "Multilingual Delivery",
+          "description": "Training content in English, German, Spanish, Greek, Italian, and Macedonian."
+        },
+        {
+          "title": "Interactive E-Learning",
+          "description": "Course delivery on platform built on open source technology: OpenEdx with gamified assessments and practical exercises."
+        }
+      ]
+    },
+    "comingNext": {
+      "title": "Coming Next",
+      "intro": "The next delivery cycle translates the research and workshop findings into practical training, certification references, and collaborative dissemination outputs.",
+      "items": [
+        {
+          "deliverable": "WP4 Pilot Testing & Train-the-Trainer",
+          "description": "Pilot courses in each partner country followed by train-the-trainer workshops to build sustainable VET capacity for drone education across Europe.",
+          "expected": "2027",
+          "status": "Planned",
+          "statusVariant": "orange",
+          "tags": [
+            {
+              "label": "Planned",
+              "variant": "orange"
+            },
+            {
+              "label": "2027"
+            }
+          ]
+        },
+        {
+          "deliverable": "WP5 Industry Collaboration & Sustainability",
+          "description": "Round-table discussions, hackathons, and dissemination events engaging construction companies, manufacturers, policymakers, and associations.",
+          "expected": "Ongoing",
+          "status": "Ongoing",
+          "statusVariant": "light",
+          "tags": [
+            {
+              "label": "Ongoing",
+              "variant": "light"
+            },
+            {
+              "label": "Ongoing"
+            }
+          ]
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Project Timeline",
+      "events": [
+        {
+          "date": "September 2025",
+          "label": "Project start and consortium formation",
+          "completed": true
+        },
+        {
+          "date": "February 2026",
+          "label": "Kick-off meeting in Berlin",
+          "completed": true
+        },
+        {
+          "date": "March 2026",
+          "label": "R2.1 strategic report published",
+          "completed": true
+        },
+        {
+          "date": "May 2026",
+          "label": "A2.2 stakeholder workshops completed in all five partner countries",
+          "completed": true
+        },
+        {
+          "date": "July 2026",
+          "label": "WP2 closure and WP3 curriculum development begins"
+        },
+        {
+          "date": "September 2026",
+          "label": "In-person consortium meeting in Madrid"
+        },
+        {
+          "date": "2027",
+          "label": "Pilot delivery, train-the-trainer rollout, and dissemination phase"
+        },
+        {
+          "date": "December 2027",
+          "label": "Project completion"
+        }
+      ]
+    }
+  }
+}
