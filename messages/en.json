@@ -26,7 +26,9 @@
   },
   "footer": {
     "coFunded": "Drone4Build is co-funded by the Erasmus+ Programme of the European Union. The project represents a collaborative effort to transform construction education and practices across Europe through innovative digital skills development.",
-    "disclaimer": "The views expressed on this platform reflect only the authors' perspectives. The European Commission is not responsible for any use that may be made of the information contained herein.",
+    "disclaimer": "Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.",
+    "trainingPlatform": "The training platform associated with this project is powered by <openEdx>Open edX®</openEdx>, an open-source learning management system. <platform>Access the training platform</platform>.",
+    "educationalMaterials": "Unless otherwise noted, all educational materials produced by this project are licensed under <creativeCommons>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</creativeCommons> as Open Educational Resources (OER), in accordance with Erasmus+ open access requirements.",
     "rights": "© {year} Drone4Build – All rights reserved.",
     "coFundedLabel": "Co-funded by the European Union",
     "links": {
@@ -1614,7 +1616,7 @@
           "statusVariant": "light",
           "tags": [
             {
-              "label": "Ongoing",
+              "label": "Dissemination & Outreach",
               "variant": "light"
             },
             {
