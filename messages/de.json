@@ -26,7 +26,9 @@
   },
   "footer": {
     "coFunded": "Drone4Build wird durch das Erasmus+-Programm der Europäischen Union kofinanziert. Das Projekt stellt eine gemeinsame Initiative dar, die darauf abzielt, die Bauausbildung und -praxis in ganz Europa durch die Entwicklung innovativer digitaler Kompetenzen zu transformieren.",
-    "disclaimer": "Die auf dieser Plattform geäußerten Ansichten geben ausschließlich die Meinung der Autoren wieder. Die Europäische Kommission übernimmt keine Verantwortung für die Verwendung der hierin enthaltenen Informationen.",
+    "disclaimer": "Von der Europäischen Union finanziert. Die geäußerten Ansichten und Meinungen entsprechen jedoch ausschließlich denen des Autors bzw. der Autoren und spiegeln nicht zwingend die der Europäischen Union oder der Europäischen Exekutivagentur für Bildung und Kultur (EACEA) wider. Weder die Europäische Union noch die EACEA können dafür verantwortlich gemacht werden.",
+    "trainingPlatform": "Die mit diesem Projekt verbundene Schulungsplattform basiert auf <openEdx>Open edX®</openEdx>, einem Open-Source-Lernmanagementsystem. <platform>Zur Schulungsplattform</platform>.",
+    "educationalMaterials": "Sofern nicht anders angegeben, sind alle im Rahmen dieses Projekts erstellten Bildungsmaterialien als Open Educational Resources (OER) unter der Lizenz <creativeCommons>Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</creativeCommons> gemäß den Open-Access-Anforderungen von Erasmus+ lizenziert.",
     "rights": "© {year} Drone4Build – Alle Rechte vorbehalten.",
     "coFundedLabel": "Kofinanziert von der Europäischen Union",
     "links": {

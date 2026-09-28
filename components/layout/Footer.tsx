@@ -65,6 +65,44 @@ const Footer: React.FC = () => {
             <p className="mt-3 text-sm leading-relaxed text-[var(--brand-blue)]">
               {t("disclaimer")}
             </p>
+            <p className="mt-3 text-sm leading-relaxed text-[var(--brand-blue)]">
+              {t.rich("trainingPlatform", {
+                openEdx: (chunks) => (
+                  <a
+                    href="https://openedx.org/"
+                    className="font-semibold hover:text-[var(--brand-orange)] hover:underline"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {chunks}
+                  </a>
+                ),
+                platform: (chunks) => (
+                  <a
+                    href="https://apps.training.drone4build.eu/"
+                    className="font-semibold hover:text-[var(--brand-orange)] hover:underline"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {chunks}
+                  </a>
+                ),
+              })}
+            </p>
+            <p className="mt-3 text-sm leading-relaxed text-[var(--brand-blue)]">
+              {t.rich("educationalMaterials", {
+                creativeCommons: (chunks) => (
+                  <a
+                    href="https://creativecommons.org/licenses/by-sa/4.0/"
+                    className="font-semibold hover:text-[var(--brand-orange)] hover:underline"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {chunks}
+                  </a>
+                ),
+              })}
+            </p>
             <div className="mt-5 flex justify-center">
               <Image
                 width={200}
