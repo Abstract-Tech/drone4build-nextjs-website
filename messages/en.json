@@ -1649,11 +1649,13 @@
         },
         {
           "date": "July 2026",
-          "label": "WP2 closure and WP3 curriculum development begins"
+          "label": "WP2 closure and WP3 curriculum development begins",
+          "completed": true
         },
         {
           "date": "September 2026",
-          "label": "In-person consortium meeting in Madrid"
+          "label": "In-person consortium meeting in Madrid",
+          "completed": true
         },
         {
           "date": "2027",
