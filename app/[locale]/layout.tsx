@@ -2,7 +2,7 @@ import type React from "react";
 import type { Metadata } from "next";
 import { Suspense } from "react";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
-import { getMessages } from "next-intl/server";
+import { getMessages, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import AnalyticsProvider from "@/components/AnalyticsProvider";
 import Footer from "@/components/layout/Footer";
@@ -12,13 +12,21 @@ import { routing } from "@/i18n/routing";
 import { Toaster } from "@/components/ui/sonner";
 
 const siteUrl = "https://drone4build.eu";
-const siteName = "Drone4Build";
-const siteTitle = "Drone4Build: Drone Skills for Future-Ready Renovation";
-const siteDescription =
-  "Drone4Build is an Erasmus+ project training construction professionals and VET trainers to use drones in renovation, with open courses, a learning platform and EU standards.";
 const socialImage = "/drone4build-social-card.png";
 
-export async function generateMetadata(): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "common.metadata" });
+  const siteT = await getTranslations({ locale, namespace: "common" });
+  const siteTitle = t("title");
+  const siteDescription = t("description");
+  const siteName = siteT("siteName");
+  const imageAlt = t("imageAlt");
+
   return {
     metadataBase: new URL(siteUrl),
     title: siteTitle,
@@ -50,7 +58,7 @@ export async function generateMetadata(): Promise<Metadata> {
           url: socialImage,
           width: 1200,
           height: 630,
-          alt: "Drone4Build — drone skills for future-ready renovation",
+          alt: imageAlt,
         },
       ],
     },
@@ -58,7 +66,7 @@ export async function generateMetadata(): Promise<Metadata> {
       card: "summary_large_image",
       title: siteTitle,
       description: siteDescription,
-      images: [socialImage],
+      images: [{ url: socialImage, alt: imageAlt }],
     },
     robots: {
       index: true,

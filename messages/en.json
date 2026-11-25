@@ -1,7 +1,12 @@
 {
   "common": {
     "siteName": "Drone4Build",
-    "tagline": "Elevating Construction With Drones"
+    "tagline": "Elevating Construction With Drones",
+    "metadata": {
+      "title": "Drone4Build: Drone Skills for Future-Ready Renovation",
+      "description": "Drone4Build is an Erasmus+ project training construction professionals and VET trainers to use drones in renovation, with open courses, a learning platform and EU standards.",
+      "imageAlt": "Drone4Build — drone skills for future-ready renovation"
+    }
   },
   "header": {
     "partners": "Partners",
