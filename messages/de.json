@@ -1,7 +1,12 @@
 {
   "common": {
     "siteName": "Drone4Build",
-    "tagline": "Bauwesen mit Drohnen auf ein neues Niveau heben"
+    "tagline": "Bauwesen mit Drohnen auf ein neues Niveau heben",
+    "metadata": {
+      "title": "Drone4Build: Drohnenkompetenzen für zukunftsfähige Renovierungen",
+      "description": "Drone4Build ist ein Erasmus+-Projekt, das Bauprofis und Ausbilder der beruflichen Bildung für den Einsatz von Drohnen bei Renovierungen qualifiziert – mit offenen Kursen, einer Lernplattform und EU-Standards.",
+      "imageAlt": "Drone4Build — Drohnenkompetenzen für zukunftsfähige Renovierungen"
+    }
   },
   "header": {
     "partners": "Partner",

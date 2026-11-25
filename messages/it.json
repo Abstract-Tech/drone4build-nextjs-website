@@ -1,7 +1,12 @@
 {
   "common": {
     "siteName": "Drone4Build",
-    "tagline": "Elevare l'edilizia con i droni"
+    "tagline": "Elevare l'edilizia con i droni",
+    "metadata": {
+      "title": "Drone4Build: Competenze con i droni per ristrutturazioni a prova di futuro",
+      "description": "Drone4Build è un progetto Erasmus+ che forma professionisti dell'edilizia e formatori dell'istruzione e formazione professionale all'uso dei droni nella ristrutturazione, con corsi aperti, una piattaforma di apprendimento e standard dell'UE.",
+      "imageAlt": "Drone4Build — competenze con i droni per ristrutturazioni a prova di futuro"
+    }
   },
   "header": {
     "partners": "Partner",
